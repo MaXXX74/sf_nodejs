@@ -1,0 +1,22 @@
+{
+  "name": "maxx74.js",
+  "version": "1.0.0",
+  "description": "My really simple module for JS arrays.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaXXX74/sf_nodejs.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Ragalevich Maxim aka MaXX74, DevOps-17",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaXXX74/sf_nodejs/issues"
+  },
+  "homepage": "https://github.com/MaXXX74/sf_nodejs#readme"
+}
